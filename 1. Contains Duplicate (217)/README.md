@@ -46,9 +46,9 @@ class Solution:
         return False
 ```
 
-**Time complexity:** O(n)
+**Time complexity:** `O(n)`
 
-**Space complexity:** O(n)
+**Space complexity:** `O(n)`
 
 **Remarks:**
 
